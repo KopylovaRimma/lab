@@ -1,0 +1,19 @@
+.a1:first-of-type {
+	color: red;
+}
+.b1:last-of-type {
+    color: brown;
+}
+
+.b2:nth-of-type(odd) {
+	color: blue;
+}
+
+.a2:nth-of-type(2) {
+	color: rgb(0, 255, 21);
+}
+
+
+h2:only-of-type {
+	color: red;
+}

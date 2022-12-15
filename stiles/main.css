@@ -1,0 +1,17 @@
+body h1 {
+    color: blue;
+}
+body h2 {
+    color: green;
+}
+body i {
+    color: green;
+}
+body p {
+    text-align: justify;
+    width: 400px;
+}
+body li {
+    text-align: justify;
+    width: 350px;
+}

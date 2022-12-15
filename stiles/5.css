@@ -1,0 +1,70 @@
+.zad1 p {
+    color: brown;
+}
+
+.zad2 h2 {
+    color: blueviolet;
+}
+
+#block_1 p {
+    color: blue;
+}
+
+#block_2 h2 {
+    color: blue;
+}
+
+.bbb_1 {
+    color: blue;
+}
+
+#block_3 .bbbb {
+    color: blue;
+}
+
+p.bbb {
+    color: blue;
+}
+
+h2.bbba {
+    color: blue;
+}
+
+#block p.bbbc {
+    color: blue;
+}
+
+.bbbd, .xxx1 {
+    color: blue;
+}
+
+p.bbbe, h2.xxxa {
+    color: blue;
+}
+
+#block_4 p.bbbf {
+    color: blue;
+}
+#block_4 p.xxxb {
+    color: blue;
+}
+
+.fff {
+    color: blue;
+}
+
+.fffa p {
+    color: blue;
+}
+
+p.fffb {
+    color: blue;
+}
+
+.fffc .bbbj {
+    color: blue;
+}
+
+.fffd h2.bbbh {
+    color: blue;
+}
